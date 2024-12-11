@@ -1,0 +1,15 @@
+C:\Users\jamaf\source\repos\P5Classified\P5Classified\bin\Debug\net8.0\P5Classified.exe
+C:\Users\jamaf\source\repos\P5Classified\P5Classified\bin\Debug\net8.0\P5Classified.deps.json
+C:\Users\jamaf\source\repos\P5Classified\P5Classified\bin\Debug\net8.0\P5Classified.runtimeconfig.json
+C:\Users\jamaf\source\repos\P5Classified\P5Classified\bin\Debug\net8.0\P5Classified.dll
+C:\Users\jamaf\source\repos\P5Classified\P5Classified\bin\Debug\net8.0\P5Classified.pdb
+C:\Users\jamaf\source\repos\P5Classified\P5Classified\obj\Debug\net8.0\P5Classified.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamaf\source\repos\P5Classified\P5Classified\obj\Debug\net8.0\P5Classified.AssemblyInfoInputs.cache
+C:\Users\jamaf\source\repos\P5Classified\P5Classified\obj\Debug\net8.0\P5Classified.AssemblyInfo.cs
+C:\Users\jamaf\source\repos\P5Classified\P5Classified\obj\Debug\net8.0\P5Classified.csproj.CoreCompileInputs.cache
+C:\Users\jamaf\source\repos\P5Classified\P5Classified\obj\Debug\net8.0\P5Classified.sourcelink.json
+C:\Users\jamaf\source\repos\P5Classified\P5Classified\obj\Debug\net8.0\P5Classified.dll
+C:\Users\jamaf\source\repos\P5Classified\P5Classified\obj\Debug\net8.0\refint\P5Classified.dll
+C:\Users\jamaf\source\repos\P5Classified\P5Classified\obj\Debug\net8.0\P5Classified.pdb
+C:\Users\jamaf\source\repos\P5Classified\P5Classified\obj\Debug\net8.0\P5Classified.genruntimeconfig.cache
+C:\Users\jamaf\source\repos\P5Classified\P5Classified\obj\Debug\net8.0\ref\P5Classified.dll
