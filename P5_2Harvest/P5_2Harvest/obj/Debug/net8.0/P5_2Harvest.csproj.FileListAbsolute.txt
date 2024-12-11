@@ -1,0 +1,15 @@
+C:\Users\jamaf\source\repos\P5_2Harvest\P5_2Harvest\bin\Debug\net8.0\P5_2Harvest.exe
+C:\Users\jamaf\source\repos\P5_2Harvest\P5_2Harvest\bin\Debug\net8.0\P5_2Harvest.deps.json
+C:\Users\jamaf\source\repos\P5_2Harvest\P5_2Harvest\bin\Debug\net8.0\P5_2Harvest.runtimeconfig.json
+C:\Users\jamaf\source\repos\P5_2Harvest\P5_2Harvest\bin\Debug\net8.0\P5_2Harvest.dll
+C:\Users\jamaf\source\repos\P5_2Harvest\P5_2Harvest\bin\Debug\net8.0\P5_2Harvest.pdb
+C:\Users\jamaf\source\repos\P5_2Harvest\P5_2Harvest\obj\Debug\net8.0\P5_2Harvest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamaf\source\repos\P5_2Harvest\P5_2Harvest\obj\Debug\net8.0\P5_2Harvest.AssemblyInfoInputs.cache
+C:\Users\jamaf\source\repos\P5_2Harvest\P5_2Harvest\obj\Debug\net8.0\P5_2Harvest.AssemblyInfo.cs
+C:\Users\jamaf\source\repos\P5_2Harvest\P5_2Harvest\obj\Debug\net8.0\P5_2Harvest.csproj.CoreCompileInputs.cache
+C:\Users\jamaf\source\repos\P5_2Harvest\P5_2Harvest\obj\Debug\net8.0\P5_2Harvest.sourcelink.json
+C:\Users\jamaf\source\repos\P5_2Harvest\P5_2Harvest\obj\Debug\net8.0\P5_2Harvest.dll
+C:\Users\jamaf\source\repos\P5_2Harvest\P5_2Harvest\obj\Debug\net8.0\refint\P5_2Harvest.dll
+C:\Users\jamaf\source\repos\P5_2Harvest\P5_2Harvest\obj\Debug\net8.0\P5_2Harvest.pdb
+C:\Users\jamaf\source\repos\P5_2Harvest\P5_2Harvest\obj\Debug\net8.0\P5_2Harvest.genruntimeconfig.cache
+C:\Users\jamaf\source\repos\P5_2Harvest\P5_2Harvest\obj\Debug\net8.0\ref\P5_2Harvest.dll
